@@ -9,6 +9,11 @@ EN:
 Well, since some people don't have a race and want to charge for nonhost sources, I'll give them to you for free.
 ( elf doesn't work anymore it's just the source )
 
+Adil -> Vulcain
+Admilmc -> Trinity
+lto -> Phantom
+Rambo -> tkt
+
 
 petit dedi à Cedkechat cette grosse merde qui sait pas Dev
 je te reserve une surprise

@@ -1,5 +1,5 @@
-# decoded-nonhost-wiiu
-**NON HOST DECODED FREE SOURCE**
+# decrypted-nonhost-wiiu
+**NON HOST DECRYPTED FREE SOURCE**
 
 FR:
 Bon vu que ya des gens qui ont pas de race et qu'il veulent faire payer la sources des nonhost je vous les give gratos

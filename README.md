@@ -9,6 +9,8 @@ EN:
 Well, since some people don't have a race and want to charge for nonhost sources, I'll give them to you for free.
 ( elf doesn't work anymore it's just the source )
 
+c'est vraiment cher !! que ce soit la source ou même les non-hosts faut vraiment etre un pigeon pour payer ça
+
 - Adil -> Vulcain
 - Admilmc -> Trinity
 - lto -> Phantom

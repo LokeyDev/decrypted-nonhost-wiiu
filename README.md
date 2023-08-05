@@ -20,3 +20,5 @@ c'est vraiment cher !! que ce soit la source ou même les non-hosts faut vraimen
 ![wallhack](https://github.com/LokeyDev/decrypted-nonhost-wiiu/assets/75146090/8ff5cde0-e4db-481d-9d39-c690c5c934b6)
 ![oui](https://github.com/LokeyDev/decrypted-nonhost-wiiu/assets/75146090/d6c13e34-0e97-468d-b16b-a68659599d55)
 ![tkt_mdr](https://github.com/LokeyDev/decrypted-nonhost-wiiu/assets/75146090/5c6e34e2-ed37-4581-9bc3-f3db62202cb5)
+
+flemme d'expliquer la dernière
